@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1504515238 source:c:\users\sachin bijalwan\documents\codeblocksproject\machine_learning\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"partition_tree.h"
+	"features.h"
+
+1504384006 source:c:\users\sachin bijalwan\documents\codeblocksproject\machine_learning\src\features.cpp
+	"features.h"
+	<bits/stdc++.h>
+
+1504383193 c:\users\sachin bijalwan\documents\codeblocksproject\machine_learning\include\features.h
+	<bits/stdc++.h>
+
+1504516460 source:c:\users\sachin bijalwan\documents\codeblocksproject\machine_learning\src\partition_tree.cpp
+	"partition_tree.h"
+	<bits/stdc++.h>
+
+1504518185 c:\users\sachin bijalwan\documents\codeblocksproject\machine_learning\include\partition_tree.h
+	<vector>
+	<utility>
+	"features.h"
+
